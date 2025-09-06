@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rooney Wandes
+# 👋 Hi, I'm Rooney Maina
 
 🔐 **Cybersecurity | Cloud | AI Automation | SOFTWARE ENGINEER**
 
