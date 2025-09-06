@@ -53,7 +53,7 @@ I’m passionate about **building secure, scalable, and intelligent systems** th
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle) | [Email](mailto:youremail@example.com)
+[ | [Email](mainarooney043@gmail.com)
 
 ---
 
