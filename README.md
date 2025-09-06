@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Rooney Maina
 
-🔐![CyberattackGIF](https://github.com/user-attachments/assets/486be5f9-bfa4-4406-ab06-348db66d4473)
-
- **Cybersecurity | Cloud | AI Automation | SOFTWARE ENGINEER**
+🔐 **Cybersecurity | Cloud | AI Automation | Full-Stack Developer**
 
 I’m passionate about **building secure, scalable, and intelligent systems** that leverage **Cloud, AI, and DevSecOps**. My mission is to make technology safer, smarter, and more efficient.  
+           ![DhsErlcGIF](https://github.com/user-attachments/assets/2115ec0d-ba1e-4ac0-b630-d7d33f9f84f4)
+
 
 ---
 
@@ -18,13 +18,14 @@ I’m passionate about **building secure, scalable, and intelligent systems** th
 
   
 
-### Cybersecurity
+### Cybersecurity🪪🪪🪪
 - ISC2 Certified in Cybersecurity (CC).....COMING SOON
 - CompTIA Security+     #COMING SOON
 - Red & Blue Team methodologies
 - Threat analysis & risk management
 
-### AI & Automation
+### AI & Automation![RobotAiGIF](https://github.com/user-attachments/assets/6542c54d-e9a5-498c-a084-084f83a2115d)
+
 - AI-powered workflow automation
 - Data-driven solutions using Python
 - Machine Learning & Natural Language Processing
@@ -35,8 +36,12 @@ I’m passionate about **building secure, scalable, and intelligent systems** th
 - Backend: APIs, Database integrations, Cloud-hosted apps
 
 ---
+![WelcomeToTheDollhouseMatthewFaberGIF](https://github.com/user-attachments/assets/54e2c79f-a2af-4867-b47b-1a5347f68944)
+
 
 ## 🌟 Projects & Highlights
+
+
 - **  Wait-LESS:** it is a queue management project  used in banks,airports,Hospitals etc to prevent traffic
 - **AI Job Recommender:** TF–IDF + cosine similarity model with FastAPI backend.  
 - **Cloud Security Automation:** Scripts to monitor & secure AWS workloads.  
