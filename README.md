@@ -37,7 +37,7 @@ I’m passionate about **building secure, scalable, and intelligent systems** th
 ---
 
 ## 🌟 Projects & Highlights
-
+- **  Wait-LESS:** it is a queue management project  used in banks,airports,Hospitals etc to prevent traffic
 - **AI Job Recommender:** TF–IDF + cosine similarity model with FastAPI backend.  
 - **Cloud Security Automation:** Scripts to monitor & secure AWS workloads.  
 - **Portfolio Websites & Apps:** Full-stack projects deployed on cloud platforms.  
