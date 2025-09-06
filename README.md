@@ -24,11 +24,15 @@ I’m passionate about **building secure, scalable, and intelligent systems** th
 - Red & Blue Team methodologies
 - Threat analysis & risk management
 
-### AI & Automation![RobotAiGIF](https://github.com/user-attachments/assets/6542c54d-e9a5-498c-a084-084f83a2115d)
+### AI & Automation
 
 - AI-powered workflow automation
 - Data-driven solutions using Python
 - Machine Learning & Natural Language Processing
+  
+![YikesWeirdFaceGIF](https://github.com/user-attachments/assets/e67abdb5-77e4-4366-b250-03735e6196bc)
+
+  
 
 ### Software Engineer🤖🤖🤖
 - Full-stack web development (Python, FastAPI, JavaScript)
