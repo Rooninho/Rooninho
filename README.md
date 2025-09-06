@@ -10,11 +10,13 @@ I’m passionate about **building secure, scalable, and intelligent systems** th
 
 ## 🚀 Skills & Expertise
 
-### Cloud & Security
+### Cloud & Security🪪
 - AWS Cloud Practitioner & Solutions Architect......#COMING SOON
 - AWS Security Specialty....#COMING SOON
 - Multi-cloud readiness & Kubernetes
 - Cloud Security, DevSecOps, and Container Security
+
+  
 
 ### Cybersecurity
 - ISC2 Certified in Cybersecurity (CC).....COMING SOON
@@ -27,7 +29,7 @@ I’m passionate about **building secure, scalable, and intelligent systems** th
 - Data-driven solutions using Python
 - Machine Learning & Natural Language Processing
 
-### Software Engineer
+### Software Engineer🤖🤖🤖
 - Full-stack web development (Python, FastAPI, JavaScript)
 - Frontend: HTML, CSS, Tailwind, React
 - Backend: APIs, Database integrations, Cloud-hosted apps
