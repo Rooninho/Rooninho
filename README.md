@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Rooney Maina
 
-🔐 **Cybersecurity | Cloud | AI Automation | SOFTWARE ENGINEER**
+🔐![CyberattackGIF](https://github.com/user-attachments/assets/486be5f9-bfa4-4406-ab06-348db66d4473)
+![CyberattackGIF (2)](https://github.com/user-attachments/assets/a14fc8bc-110b-45a0-89de-fb8fb71f626b)
+ **Cybersecurity | Cloud | AI Automation | SOFTWARE ENGINEER**
 
 I’m passionate about **building secure, scalable, and intelligent systems** that leverage **Cloud, AI, and DevSecOps**. My mission is to make technology safer, smarter, and more efficient.  
 
