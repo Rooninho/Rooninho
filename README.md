@@ -3,7 +3,7 @@
 🔐 **Cybersecurity | Cloud | AI Automation | Full-Stack Developer**
 
 I’m passionate about **building secure, scalable, and intelligent systems** that leverage **Cloud, AI, and DevSecOps**. My mission is to make technology safer, smarter, and more efficient.  
-           ![DhsErlcGIF](https://github.com/user-attachments/assets/2115ec0d-ba1e-4ac0-b630-d7d33f9f84f4)
+           
 
 
 ---
