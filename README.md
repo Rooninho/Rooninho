@@ -46,11 +46,15 @@ I’m passionate about **building secure, scalable, and intelligent systems** th
 ## 🌟 Projects & Highlights
 
 
-- **  Wait-LESS:** it is a queue management project  used in banks,airports,Hospitals etc to prevent traffic
+- **  Wait-LESS:** Smart queue management system for banks, airports, and hospitals to reduce congestion and improve efficiency.
 - **AI Job Recommender:** TF–IDF + cosine similarity model with FastAPI backend.  
 - **Cloud Security Automation:** Scripts to monitor & secure AWS workloads.  
 - **Portfolio Websites & Apps:** Full-stack projects deployed on cloud platforms.  
 - **Hackathon Contributions:** Vibe Hackathon & other AI/Cloud Security challenges.
+- Discount Genie (React, FastAPI, Web Scraping)
+A smart shopping assistant that helps users find the best discounts and offers across multiple platforms.
+
+Portfolio Websites & Apps
 
 ---
 
